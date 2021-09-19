@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/LockBlock-dev/csv2sql.svg)](https://github.com/LockBlock-dev/csv2sql/stargazers)
 
-Import your csv data into a sqlite database.
+Import your csv data into a sqlite database. A project made for school.
 
 ## Copyright
 
