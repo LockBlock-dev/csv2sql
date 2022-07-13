@@ -5,6 +5,7 @@ TYPES = {
     "int": "INTEGER",
     "float": "REAL",
     "bytes": "BLOB",
+    "bool": "BOOL",
     "NoneType": "NULL"
 }
 DB_PATH = pathlib.Path("db.sq3")
